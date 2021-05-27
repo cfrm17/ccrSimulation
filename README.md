@@ -95,8 +95,10 @@ Where S_t is the implied volatility and V_t is the instantaneous variance of the
 	Unstable calibration
 	A simple alternative
  
+References:
 
-
-You can find more details at
 https://finpricing.com/lib/IrCurveIntroduction.html
+
+https://bitbucket.org/cfrm17/ccrsimulation/downloads/ccrSimulation-2.pdf
+
 
