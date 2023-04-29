@@ -99,6 +99,3 @@ References:
 
 https://finpricing.com/lib/IrCurveIntroduction.html
 
-https://bitbucket.org/cfrm17/ccrsimulation/downloads/ccrSimulation-2.pdf
-
-
